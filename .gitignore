@@ -5,8 +5,6 @@ media/gif/
 # Runtime data — users, passkeys, per-user state, session secret
 data/
 
-# Local config
-.env
 
 # Build output / deps
 frontend/dist/
